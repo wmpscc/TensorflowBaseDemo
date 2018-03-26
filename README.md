@@ -5,6 +5,5 @@
 - Fnt.tar.gz
 - modelAndTFRecord.zip
 <br>
-文件目录图：
-<br>
+- 文件目录图：
 ![ls](/ls.jpg)
